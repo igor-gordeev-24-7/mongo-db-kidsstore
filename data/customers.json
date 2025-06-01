@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Анна",
+    "lastName": "Смирнова",
+    "email": "anna@example.com",
+    "phone": "+79121234567",
+    "address": "ул. Центральная, д. 20",
+    "createdAt": { "$date": "2024-04-01T10:00:00Z" },
+    "updatedAt": { "$date": "2024-04-05T12:00:00Z" }
+  },
+  {
+    "firstName": "Иван",
+    "lastName": "Петров",
+    "email": "ivan@example.com",
+    "phone": "+79127654321",
+    "address": "ул. Мира, д. 5",
+    "createdAt": { "$date": "2024-04-01T10:00:00Z" },
+    "updatedAt": { "$date": "2024-04-05T12:00:00Z" }
+  }
+]

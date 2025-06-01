@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Конструктор Лего",
+    "description": "Цветной конструктор для детей от 3 лет",
+    "price": 1500.00,
+    "stockQuantity": 50,
+    "imageURL": "https://example.com/images/lego.jpg", 
+    "categoryId": null,
+    "supplierId": null,
+    "createdAt": { "$date": "2024-04-01T10:00:00Z" },
+    "updatedAt": { "$date": "2024-04-05T12:00:00Z" }
+  },
+  {
+    "name": "Азбука в картинках",
+    "description": "Обучающая книга для дошкольников",
+    "price": 300.00,
+    "stockQuantity": 100,
+    "imageURL": "https://example.com/images/book.jpg", 
+    "categoryId": null,
+    "supplierId": null,
+    "createdAt": { "$date": "2024-04-01T10:00:00Z" },
+    "updatedAt": { "$date": "2024-04-05T12:00:00Z" }
+  }
+]
